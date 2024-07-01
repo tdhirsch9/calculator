@@ -20,12 +20,12 @@ body{
     background-color: #454545;
 }
 
-.display{
+#calc-display{
     width: 350px;
     border: 1px solid blue;
     align-items: flex-start;
     text-align: right;  
-    font-size: 80px;
+    font-size: 65px;
     background-color: white;
 }
 
