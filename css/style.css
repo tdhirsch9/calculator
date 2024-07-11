@@ -14,14 +14,14 @@ body{
     align-items: center;
     justify-content: center;
     border: 1px solid black;
-    width: 410px;
+    width: 430px;
     flex-direction: column;
     margin: auto;
     background-color: #454545;
 }
 
 #calc-display{
-    width: 350px;
+    width: 370px;
     border: 1px solid blue;
     align-items: flex-start;
     text-align: right;  
@@ -33,12 +33,13 @@ body{
     margin: 10px;
     border: 2px solid orange;
     margin-top: 40px;
+    
 }
 
 button{
     margin: 7px;
-    width: 70px;
-    height: 70px;
+    width: 75px;
+    height: 75px;
     background-color: #FFD580;
 }
 
